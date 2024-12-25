@@ -1,3 +1,5 @@
+[Next: Core Resources →](./02_Core_Resources.md)
+
 # 1. Introduction
 
 This section provides a comprehensive guide for working with Cursor's AI assistant, with a special focus on helping users who are:
@@ -6,13 +8,16 @@ This section provides a comprehensive guide for working with Cursor's AI assista
 - Experiencing challenges in their AI collaboration
 - Seeking to understand the structured approach to AI-assisted development
 
+**Related Sections**:
+- [Core Resources](./02_Core_Resources.md)
+- [AI Interaction Guidelines](./05_AI_Interaction.md)
+- [Benefits and Outcomes](./08_Benefits_and_Outcomes.md)
+
 ---
 
 ## 1.1. Purpose and Scope
 
 The guide explains how Cursor's AI assistant utilizes various resources to maintain consistent, high-quality development work. It breaks down complex processes into clear, manageable steps and provides practical examples to illustrate key concepts.
-
----
 
 ## 1.2. Overview
 
@@ -27,6 +32,8 @@ This documentation is organized into several key sections:
 7. [Self Evaluation](./07_Self_Evaluation.md) - Quality and improvement
 8. [Benefits and Outcomes](./08_Benefits_and_Outcomes.md) - Value and advantages
 
-Whether you're starting with Cursor or looking to improve your existing workflow, this guide will help you establish effective collaboration with the AI assistant.
+Whether you're just starting with Cursor or looking to improve your existing workflow, this guide will help you establish effective collaboration with the AI assistant.
 
---- 
+---
+
+[Next: Core Resources →](./02_Core_Resources.md) 
